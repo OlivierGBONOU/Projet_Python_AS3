@@ -1,0 +1,6 @@
+Bonjour👋. Voici l'aide a la participation au projet en utilisant "Live Share".
+
+Etape 1 : Ouvrir Vscode et installer l'extension "Live Share". Si l'installation fini il apparait sur le ruban vertical situé a gauche de l'ecran sur Vscode.
+Etape 2 : Cliquer sur "Live Share" puis sur "Join"
+Etape 3 : Entrer l'URL suivant dans la zone d'entrée qui est apparu a l'ecran. https://prod.liveshare.vsengsaas.visualstudio.com/join?F4854275E977E01A94B2D8C4E647E94CA8D4
+Etape 4 : M'ecrire pour que j'accepte la demande d'invitation a acceder au projet.
